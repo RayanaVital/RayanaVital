@@ -37,7 +37,7 @@ Minhas principais tecnologias e ferramentas incluem:
 
 ### 🔥 Minhas Estatísticas no GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayanaVital&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
